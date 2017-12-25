@@ -1,0 +1,16 @@
+[
+{
+  "modid": "flymod",
+  "name": "Walaryne's Fly Mod",
+  "description": "Enables a person to type /fly to fly!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Walaryne"],
+  "credits": "N/A",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
